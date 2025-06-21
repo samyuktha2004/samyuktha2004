@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Samyuktha S, a 4th Year Student at Hindustan Institute of Technology and Science! 
+I'm studying B.Tech. CSE AI DS, but I also have a passion for speaking, designing and ideation✨ 
+
+I think we all can make the world a better and happier place to live in, one idea at a time!
+Find me on [Linkedin]([url](https://in.linkedin.com/in/samyuktha24)) to know what I'm working on.
+
+
+
+
+
 
 <!--
 **samyuktha2004/samyuktha2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
